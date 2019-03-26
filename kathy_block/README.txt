@@ -1,2 +1,0 @@
-Apologies for the incomplete assignment--according to all the tests I ran in test_master_block.c, my functions work,
-I just wasn't able to integrate it with the shell. I had a lot of linking errors that I couldn't figure out at the very end, and I suspect it has something to do with my makefile. I'll attach a screenshot of my warnings and errors.
